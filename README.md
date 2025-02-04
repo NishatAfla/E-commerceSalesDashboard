@@ -4,7 +4,7 @@
 This Power BI dashboard provides an interactive visualization of e-commerce sales data, allowing users to track and analyze key metrics such as profit, sales, customer trends, and category-wise performance.
 
 ## 📷 Dashboard Screenshot  
-![E-commerce Sales Dashboard](./Screenshot_2025-02-03_211440.png)  
+![E-commerce Sales Dashboard](./PowerBI_DashBoard.png)  
 
 ## Key Features  
 - **Interactive Data Exploration**: Used slicers and filters for enhanced user-driven analysis.  
